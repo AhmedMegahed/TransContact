@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:icon="@drawable/ic_child_friendly_black_24dp"
+        android:title="new_game"
+        app:showAsAction="never" />
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_child_friendly_black_24dp"
+        android:title="help" />
+    <item android:id="@+id/help2"
+        android:icon="@drawable/ic_child_friendly_black_24dp"
+        android:title="help" />
+    <item android:id="@+id/help3"
+        android:icon="@drawable/ic_child_friendly_black_24dp"
+        android:title="help" />
+</menu>
